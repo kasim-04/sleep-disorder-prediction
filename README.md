@@ -4,13 +4,14 @@
 
 ## Project Overview
 This project focuses on predicting sleep disorders based on health and lifestyle features.  
-It includes thorough exploratory data analysis (EDA), simple feature engineering, and a custom-built multiclass logistic regression model implemented from scratch.  
+It includes thorough exploratory data analysis, simple feature engineering, and a custom-built multiclass logistic regression model implemented from scratch.  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasim-04/sleep-disorder-prediction/blob/main/Sleep_Disorder_Prediction.ipynb)
 
 ## Dataset
-The dataset is publicly available on Kaggle:  
-[Disorder Dataset](https://www.kaggle.com/datasets/varishabatool/disorder)  
+The dataset is publicly available on Kaggle: [Disorder Dataset](https://www.kaggle.com/datasets/varishabatool/disorder)  
 
-The dataset contains multiple health-related features such as `Age`, `Gender`, `Sleep Duration`, `Blood Pressure`, `Physical Activity Level`, and `Stress Level`.  
+The dataset contains multiple health-related features such as `Age`, `Gender`, `Sleep Duration`, `Blood Pressure`, `Physical Activity Level`, `Stress Level`.  
 The target variable is `Sleep Disorder`.
 
 ## Results
